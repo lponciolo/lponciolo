@@ -4,10 +4,12 @@ A JavaScript developer and Entrepreneur from Argentina. I love building applicat
 
 ### I'm Currently
 
-- 📱 Building a cool mobile app for [Pickyourtrail][pickyourtrail]
-- 📚 Mentoring budding programmers
-- ⚛️ Boving my Projects to Github
+- 👾 Hope Covid-19 outbreak end soon
 - 👷🏽‍♂️ Looking to work in a company
+- 📚 Learning new frameworks in the midtime
+- ⚛️ Moving my Projects to Github
+- 🧑‍💻 Working as a Freelancer in the midTime
+
 
 ### Stuff I'm good at
 
