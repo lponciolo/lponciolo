@@ -1,16 +1,22 @@
-### Hi there 👋
+### I'm Leonardo Ponciolo
 
-<!--
-**lponciolo/lponciolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A JavaScript developer and Entrepreneur from Argentina. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
-Here are some ideas to get you started:
+### I'm Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Building a cool mobile app for [Pickyourtrail][pickyourtrail]
+- 📚 Mentoring budding programmers
+- ⚛️ Boving my Projects to Github
+- 👷🏽‍♂️ Looking to work in a company
+
+### Stuff I'm good at
+
+<p>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
+</p>
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lponciolo&layout=compact)
+
