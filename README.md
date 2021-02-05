@@ -1,6 +1,6 @@
 ### I'm Leonardo Ponciolo
 
-A JavaScript developer and Entrepreneur from Argentina. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+A JavaScript developer and Entrepreneur from Argentina. I love building applications & discussing new product ideas.
 
 ### I'm Currently
 
