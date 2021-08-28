@@ -4,11 +4,11 @@ A JavaScript developer and Entrepreneur from Argentina. I love building applicat
 
 ### I'm Currently
 
-- 👾 Hope Covid-19 outbreak end soon
-- 👷🏽‍♂️ Looking to work in a company
-- 📚 Learning new frameworks in the midtime
-- ⚛️ Moving my Projects to Github
-- 🧑‍💻 Working as a Freelancer in the midTime
+- 👾 Hoping Covid-19 outbreak end soon
+- 👷🏽‍♂️ working as software developer at Botmaker
+- 🤖 Exploring IoT 
+- 📚 Learning python for datascience projects
+- ⚛️ improving React knowledge
 
 
 ### Stuff I'm good at
